@@ -1,0 +1,20 @@
+{
+  "name": "todolist_ahsan-cli",
+  "version": "1.0.1",
+  "description": "The TypeScript Todo List project is a task management application designed to help users organize their daily tasks efficiently. Built using TypeScript, this project provides a robust and scalable solution for managing tasks with features such as task creation, deletion, updating, and marking tasks as completed.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Ahsan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
